@@ -1,0 +1,11 @@
+#1. instalar python 3.10.2
+#2. crear un .env
+#3. instalar las siguientes librerias pip install -r .\requirements.txt
+tensorflow
+pandas
+psycopg2-binary
+pyodbc
+sqlalchemy
+python-dotenv
+scipy
+pymssql
